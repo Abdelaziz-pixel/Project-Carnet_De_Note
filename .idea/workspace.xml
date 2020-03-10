@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb24a283-fdce-403e-a550-f967480337d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ProjectId" id="1YtSHv8c8FNTU8P6IFqcJBxY1II" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="Projet-CarnetDeNotes" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projet-CarnetDeNotes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projet-CarnetDeNotes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/untitled/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb24a283-fdce-403e-a550-f967480337d8" name="Default Changelist" comment="" />
+      <created>1583760312939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583760312939</updated>
+      <workItem from="1583760318264" duration="305000" />
+      <workItem from="1583760681043" duration="2386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="27" width="642" height="686" key="#Projet-CarnetDeNotes" timestamp="1583760439789">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="357" y="27" width="642" height="686" key="#Projet-CarnetDeNotes/0.27.1366.686@0.27.1366.686" timestamp="1583760439789" />
+    <state x="357" y="27" width="642" height="686" key="#run" timestamp="1583760574383">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="357" y="27" width="642" height="686" key="#run/0.27.1366.686@0.27.1366.686" timestamp="1583760574383" />
+    <state width="1320" height="157" key="GridCell.Tab.0.bottom" timestamp="1583769250488">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.bottom/0.27.1366.686@0.27.1366.686" timestamp="1583769250488" />
+    <state width="1320" height="157" key="GridCell.Tab.0.center" timestamp="1583769250423">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.center/0.27.1366.686@0.27.1366.686" timestamp="1583769250423" />
+    <state width="1320" height="157" key="GridCell.Tab.0.left" timestamp="1583769250422">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.left/0.27.1366.686@0.27.1366.686" timestamp="1583769250421" />
+    <state width="1320" height="157" key="GridCell.Tab.0.right" timestamp="1583769250424">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.right/0.27.1366.686@0.27.1366.686" timestamp="1583769250424" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1583761074849">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/0.27.1366.686@0.27.1366.686" timestamp="1583761074849" />
+    <state x="172" y="27" width="1012" height="686" key="SettingsEditor" timestamp="1583760808370">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="172" y="27" width="1012" height="686" key="SettingsEditor/0.27.1366.686@0.27.1366.686" timestamp="1583760808370" />
+    <state x="339" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1583760772096">
+      <screen x="0" y="27" width="1366" height="686" />
+    </state>
+    <state x="339" y="196" key="com.intellij.ide.util.TipDialog/0.27.1366.686@0.27.1366.686" timestamp="1583760772096" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Projet_CarnetDeNotes$run.coverage" NAME="run Coverage Results" MODIFIED="1583760985151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Projet_CarnetDeNotes$Projet_CarnetDeNotes.coverage" NAME="Projet-CarnetDeNotes Coverage Results" MODIFIED="1583760519126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
